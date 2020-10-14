@@ -25,7 +25,7 @@
 
                 <!-- Right Side Of Navbar -->
                 <ul class="nav navbar-nav navbar-right">
-                   
+                   <slot></slot>
                 </ul>
             </div>
         </div>
