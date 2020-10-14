@@ -18,3 +18,15 @@
         }
     }
 </script>
+
+<style media="screen">
+    .blue {
+        border-color: #0d4a96;
+    }
+
+    .blue > .panel-heading {
+        color: #f7f7f7;
+        background-color: #0d4a96;
+        border-color: #0d4a96;
+    }
+</style>
