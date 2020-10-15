@@ -33,6 +33,11 @@
     color: #FFF;
   }
 
+  .small-box:hover {
+    text-decoration: none;
+    color: #f9f9f9;
+  }
+
   .small-box>.inner {
     padding: 10px;
   }
@@ -69,6 +74,10 @@
     color: rgba(0,0,0,0.15);
   }
 
+  .small-box:hover .icon{
+      font-size: 95px;
+  }
+
   .small-box>.small-box-footer {
     position: relative;
     text-align: center;
@@ -83,5 +92,16 @@
 
   a {
     color: #3c8dbc;
+  }
+
+  .small-box>.small-box-footer:hover {
+      color: #fff;
+      background: rgba(0,0,0,0.15);
+  }
+
+  a:hover {
+      outline: none;
+      text-decoration: none;
+      color: #72afd2;
   }
 </style>
