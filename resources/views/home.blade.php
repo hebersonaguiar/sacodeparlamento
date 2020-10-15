@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-<pagina tamanho="7">
+<pagina tamanho="12">
     <painel titulo="Sacode Parlamento">
         <!-- Redes Sociais -->
         <div class="row">
