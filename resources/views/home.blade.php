@@ -8,7 +8,7 @@
                <!-- Redes Sociais -->
                <div class="row">
                    <div class="col-md-4">
-                       <caixa></caixa>
+                       <caixa qtd="80" titulo="Artigos" url="#" cor="orange" icone="ion ion-pie-graph"></caixa>
                    </div>
                    <div class="col-md-4">
 
